@@ -1,0 +1,7 @@
+D:\VB Progra 3\Tarea 2 Eduardo Espinoza\Tarea 2 Eduardo Espinoza\obj\Debug\Tarea 2 Eduardo Espinoza.csproj.AssemblyReference.cache
+D:\VB Progra 3\Tarea 2 Eduardo Espinoza\Tarea 2 Eduardo Espinoza\obj\Debug\Tarea 2 Eduardo Espinoza.csproj.CoreCompileInputs.cache
+D:\VB Progra 3\Tarea 2 Eduardo Espinoza\Tarea 2 Eduardo Espinoza\bin\Debug\Tarea 2 Eduardo Espinoza.exe.config
+D:\VB Progra 3\Tarea 2 Eduardo Espinoza\Tarea 2 Eduardo Espinoza\bin\Debug\Tarea 2 Eduardo Espinoza.exe
+D:\VB Progra 3\Tarea 2 Eduardo Espinoza\Tarea 2 Eduardo Espinoza\bin\Debug\Tarea 2 Eduardo Espinoza.pdb
+D:\VB Progra 3\Tarea 2 Eduardo Espinoza\Tarea 2 Eduardo Espinoza\obj\Debug\Tarea 2 Eduardo Espinoza.exe
+D:\VB Progra 3\Tarea 2 Eduardo Espinoza\Tarea 2 Eduardo Espinoza\obj\Debug\Tarea 2 Eduardo Espinoza.pdb
